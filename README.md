@@ -11,7 +11,7 @@ A simple and user-friendly web application to test your internet/Wi-Fi speed in 
 - **Lightweight** – Fast and responsive design
 - **Multi-language Support** – Backend in Python, frontend with HTML, CSS, JavaScript
 
-## 🚀 How to Use
+## 🚀 How to Use 
 1. Open the website in your browser
 2. Click the **"Start Test"** button
 3. Wait a few seconds for download & upload speed results
