@@ -4,7 +4,7 @@
 
 A simple and user-friendly web application to test your internet/Wi-Fi speed in real-time. Built with Python and a clean web interface.
 
-## ✨ Features
+## ✨ Features 
 - **Real-time Speed Testing** – Check your download and upload speed instantly
 - **Ping/Latency Measurement** – View your network response time
 - **Simple UI** – Easy to use, no installation required
